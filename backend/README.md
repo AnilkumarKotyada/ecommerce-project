@@ -34,5 +34,5 @@ Ensure you have the following installed:
 ### **2. Clone the Repository**
 Clone the project repository to your local machine:
 ```bash
-git clone https://github.com/your-username/ecommerce-project-backend.git
+git clone https://github.com/AnilkumarKotyada/ecommerce-project/tree/main/backend
 cd ecommerce-project-backend

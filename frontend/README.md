@@ -29,5 +29,5 @@ Ensure you have the following installed on your system:
 ### **2. Clone the Repository**
 Clone the project repository to your local machine:
 ```bash
-git clone https://github.com/your-username/ecommerce-project-frontend.git
+git clone https://github.com/AnilkumarKotyada/ecommerce-project/tree/main/frontend
 cd ecommerce-project-frontend

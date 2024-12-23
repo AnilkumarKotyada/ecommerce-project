@@ -28,5 +28,5 @@ Ensure you have the following installed on your system:
 ### **2. Clone the Repository**
 Clone the project repository to your local machine:
 ```bash
-git clone https://github.com//ecommerce-project-admin.git
+git clone https://github.com/AnilkumarKotyada/ecommerce-project/tree/main/admin
 cd ecommerce-project-admin
